@@ -1,6 +1,6 @@
 <%--
   Created by IntelliJ IDEA.
-  User: admin
+  User: Lalana
   Date: 7/25/20
   Time: 12:25
   To change this template use File | Settings | File Templates.
@@ -23,5 +23,7 @@
         <button type="submit" >Login</button>
 
     </form>
+
+<p style="color: red;font-size: larger">${errorMessage}</p>
 </body>
 </html>
