@@ -13,7 +13,7 @@
 <body>
     <h1>Welcome to the login page</h1>
 
-    <form action="/login" method="post">
+    <form action="/JavaWebApp_war_exploded/login" method="post">
         <h4>User Name</h4>
         <input type="text" name="loginname" width="30"/><br><br>
 
